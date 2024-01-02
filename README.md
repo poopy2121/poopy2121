@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poopy2121
 - 👀 I’m interested in ... poopy
-- 🌱 I’m currently learning ... basic poop 
+- 🌱 I’m currently learning ... basic poop (web development aka css, html and js)
 - 💞️ I’m looking to collaborate on ... basically anything lol
 - 📫 How to reach me ... on here i guess
 
